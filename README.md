@@ -3,7 +3,7 @@ Note taking app, MVVM with Google Architectural components Room, LiveData and Vi
 
 First video for the series can be found [here](https://www.youtube.com/playlist?list=PLrnPJCHvNZuDihTpkRs6SpZhqgBqPU118).
 
-## Used Tech:
+### Used Tech:
 
 - MVVM
 - Room
